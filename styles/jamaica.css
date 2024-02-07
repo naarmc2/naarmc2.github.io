@@ -3,4 +3,21 @@
   line-height: 24px;
   margin-bottom: 5px;
 }
-  
+
+.container-fluid{
+  display: table
+}
+.topics {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  background-color: #ffd700;
+}
+
+
+.divider{
+  margin-top: 10px;
+  margin-bottom: 10px
+}
